@@ -40,7 +40,4 @@ echo "Merk Baju Yang Di Beli : $baju_nf->merk_baju";
 echo"<br>";
 echo "Ukuran Baju Yang Di Beli : $baju_nf->ukuran_baju";
 echo"<br>";
-
-//tampilkan method
-// tampilkan method
 ?>
